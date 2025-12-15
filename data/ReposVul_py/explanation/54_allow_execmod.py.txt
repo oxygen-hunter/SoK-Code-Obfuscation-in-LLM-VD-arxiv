@@ -1,4 +1,0 @@
-CVE: CVE-2016-4444
-CVE Description: The allow_execmod plugin for setroubleshoot before 3.2.23 allows local users to execute arbitrary commands by triggering an execmod SELinux denial with a crafted binary filename, related to the commands.getstatusoutput function.
-CWE: ['CWE-77']
-CWE Description: 

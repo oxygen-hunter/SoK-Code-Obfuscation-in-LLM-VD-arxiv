@@ -1,4 +1,0 @@
-CVE: CVE-2020-19858
-CVE Description: Platinum Upnp SDK through 1.2.0 has a directory traversal vulnerability. The attack could remote attack victim by sending http://ip:port/../privacy.avi URL to compromise a victim's privacy.
-CWE: ['CWE-22']
-CWE Description: 

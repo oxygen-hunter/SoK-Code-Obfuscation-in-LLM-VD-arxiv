@@ -1,4 +1,0 @@
-CVE: CVE-2015-2778
-CVE Description: Quassel before 0.12-rc1 uses an incorrect data-type size when splitting a message, which allows remote attackers to cause a denial of service (crash) via a long CTCP query containing only multibyte characters.
-CWE: ['CWE-399']
-CWE Description: 

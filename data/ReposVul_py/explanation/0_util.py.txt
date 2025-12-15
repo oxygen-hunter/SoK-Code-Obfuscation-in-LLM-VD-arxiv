@@ -1,4 +1,0 @@
-CVE: CVE-2022-42725
-CVE Description: Warpinator through 1.2.14 allows access outside of an intended directory, as demonstrated by symbolic directory links.
-CWE: ['CWE-59']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2018-8097
-CVE Description: io/mongo/parser.py in Eve (aka pyeve) before 0.7.5 allows remote attackers to execute arbitrary code via Code Injection in the where parameter.
-CWE: ['CWE-94']
-CWE Description: 

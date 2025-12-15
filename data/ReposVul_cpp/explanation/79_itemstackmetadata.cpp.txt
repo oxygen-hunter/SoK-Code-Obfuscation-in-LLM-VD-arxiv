@@ -1,4 +1,0 @@
-CVE: CVE-2022-24300
-CVE Description: Minetest before 5.4.0 allows attackers to add or modify arbitrary meta fields of the same item stack as saved user input, aka ItemStack meta injection.
-CWE: ['CWE-74']
-CWE Description: 

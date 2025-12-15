@@ -1,4 +1,0 @@
-CWE: CWE-401
-CVE: CVE-2017-11447
-
-The ReadSCREENSHOTImage function in coders/screenshot.c in ImageMagick before 7.0.6-1 has memory leaks, causing denial of service.

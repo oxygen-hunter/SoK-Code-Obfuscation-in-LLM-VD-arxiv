@@ -1,4 +1,0 @@
-CVE: CVE-2022-22740
-CVE Description: Certain network request objects were freed too early when releasing a network request handle. This could have lead to a use-after-free causing a potentially exploitable crash. This vulnerability affects Firefox ESR < 91.5, Firefox < 96, and Thunderbird < 91.5.
-CWE: ['CWE-416']
-CWE Description: 

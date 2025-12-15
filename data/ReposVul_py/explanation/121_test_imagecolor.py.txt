@@ -1,4 +1,0 @@
-CVE: CVE-2021-23437
-CVE Description: The package pillow 5.2.0 and before 8.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via the getrgb function.
-CWE: ['CWE-125']
-CWE Description: 

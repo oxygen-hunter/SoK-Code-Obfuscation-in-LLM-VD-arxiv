@@ -1,4 +1,0 @@
-CVE: CVE-2013-7416
-CVE Description: canto_curses/guibase.py in Canto Curses before 0.9.0 allows remote feed servers to execute arbitrary commands via shell metacharacters in a URL in a feed.
-CWE: ['CWE-77']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2022-3500
-CVE Description: A vulnerability was found in keylime. This security issue happens in some circumstances, due to some improperly handled exceptions, there exists the possibility that a rogue agent could create errors on the verifier that stopped attestation attempts for that host leaving it in an attested state but not verifying that anymore.
-CWE: ['CWE-248']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2014-8483
-CVE Description: The blowfishECB function in core/cipher.cpp in Quassel IRC 0.10.0 allows remote attackers to cause a denial of service (out-of-bounds read) via a malformed string.
-CWE: ['CWE-125']
-CWE Description: 

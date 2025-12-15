@@ -1,4 +1,0 @@
-CVE: CVE-2023-3765
-CVE Description: Absolute Path Traversal in GitHub repository mlflow/mlflow prior to 2.5.0.
-CWE: ['CWE-36']
-CWE Description: 

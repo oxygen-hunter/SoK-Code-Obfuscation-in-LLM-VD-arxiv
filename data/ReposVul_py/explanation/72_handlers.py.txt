@@ -1,4 +1,0 @@
-CVE: CVE-2015-5607
-CVE Description: Cross-site request forgery in the REST API in IPython 2 and 3.
-CWE: ['CWE-352']
-CWE Description: 

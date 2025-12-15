@@ -1,4 +1,0 @@
-CVE: CVE-2021-45943
-CVE Description: GDAL 3.3.0 through 3.4.0 has a heap-based buffer overflow in PCIDSK::CPCIDSKFile::ReadFromFile (called from PCIDSK::CPCIDSKSegment::ReadFromFile and PCIDSK::CPCIDSKBinarySegment::CPCIDSKBinarySegment).
-CWE: ['CWE-787']
-CWE Description: 

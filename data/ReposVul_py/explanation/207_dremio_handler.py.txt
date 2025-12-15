@@ -1,4 +1,0 @@
-CVE: CVE-2023-38699
-CVE Description: MindsDB's AI Virtual Database allows developers to connect any AI/ML model to any datasource. Prior to version 23.7.4.0, a call to requests with `verify=False` disables SSL certificate checks. This rule enforces always verifying SSL certificates for methods in the Requests library. In version 23.7.4.0, certificates are validated by default, which is the desired behavior.
-CWE: ['CWE-311']
-CWE Description: 

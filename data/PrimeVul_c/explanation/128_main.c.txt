@@ -1,4 +1,0 @@
-CWE: CWE-426
-CVE: CVE-2015-3887
-
-Untrusted search path vulnerability in ProxyChains-NG before 4.9 allows local users to gain privileges via a Trojan horse libproxychains4.so library in the current working directory, which is referenced in the LD_PRELOAD path.

@@ -1,4 +1,0 @@
-CWE: CWE-287
-CVE: CVE-2014-4668
-
-The cherokee_validator_ldap_check function in validator_ldap.c in Cherokee 1.2.103 and earlier, when LDAP is used, does not properly consider unauthenticated-bind semantics, which allows remote attackers to bypass authentication via an empty password.

@@ -1,4 +1,0 @@
-CVE: CVE-2023-40017
-CVE Description: GeoNode is an open source platform that facilitates the creation, sharing, and collaborative use of geospatial data. In versions 3.2.0 through 4.1.2, the endpoint `/proxy/?url=` does not properly protect against server-side request forgery. This allows an attacker to port scan internal hosts and request information from internal hosts. A patch is available at commit a9eebae80cb362009660a1fd49e105e7cdb499b9.
-CWE: ['CWE-918']
-CWE Description: 

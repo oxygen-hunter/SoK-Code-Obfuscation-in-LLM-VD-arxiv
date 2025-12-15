@@ -1,4 +1,0 @@
-CWE: CWE-287
-CVE: CVE-2016-7145
-
-The m_authenticate function in ircd/m_authenticate.c in nefarious2 allows remote attackers to spoof certificate fingerprints and consequently log in as another user via a crafted AUTHENTICATE parameter.

@@ -1,4 +1,0 @@
-CWE: CWE-269
-CVE: CVE-2022-37451
-
-Exim before 4.96 has an invalid free in pam_converse in auths/call_pam.c because store_free is not used after store_malloc.

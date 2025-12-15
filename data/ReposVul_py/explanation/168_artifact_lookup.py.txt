@@ -1,4 +1,0 @@
-CVE: CVE-2023-36826
-CVE Description: Sentry is an error tracking and performance monitoring platform. Starting in version 8.21.0 and prior to version 23.5.2, an authenticated user can download a debug or artifact bundle from arbitrary organizations and projects with a known bundle ID. The user does not need to be a member of the organization or have permissions on the project. A patch was issued in version 23.5.2 to ensure authorization checks are properly scoped on requests to retrieve debug or artifact bundles. Authenticated users who do not have the necessary permissions on the particular project are no longer able to download them. Sentry SaaS users do not need to take any action. Self-Hosted Sentry users should upgrade to version 23.5.2 or higher.
-CWE: ['CWE-285', 'CWE-863']
-CWE Description: 

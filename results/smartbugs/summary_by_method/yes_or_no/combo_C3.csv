@@ -1,9 +1,0 @@
-blind_name,yes_yes,yes_no,no_yes,no_no,blind_rate
-DeepSeek-V3,128,0,0,0,0.0
-DS-R1-Dist-Llama-8B,120,3,5,0,0.024390243902439025
-DS-R1-Dist-Qwen-14B,116,5,6,1,0.04132231404958678
-DS-R1-Dist-Qwen-7B,121,5,2,0,0.03968253968253968
-GPT-4o,128,0,0,0,0.0
-Llama3.1-8B,127,1,0,0,0.0078125
-Llama3.3-70B,128,0,0,0,0.0
-Qwen2.5-7B,114,6,8,0,0.05

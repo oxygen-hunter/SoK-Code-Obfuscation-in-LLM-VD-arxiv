@@ -1,4 +1,0 @@
-CVE: CVE-2019-16930
-CVE Description: Zcashd in Zcash before 2.0.7-3 allows discovery of the IP address of a full node that owns a shielded address, related to mishandling of exceptions during deserialization of note plaintexts. This affects anyone who has disclosed their zaddr to a third party.
-CWE: ['CWE-755']
-CWE Description: 

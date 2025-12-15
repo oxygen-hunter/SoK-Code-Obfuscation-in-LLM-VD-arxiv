@@ -1,4 +1,0 @@
-CVE: CVE-2019-3560
-CVE Description: An improperly performed length calculation on a buffer in PlaintextRecordLayer could lead to an infinite loop and denial-of-service based on user input. This issue affected versions of fizz prior to v2019.03.04.00.
-CWE: ['CWE-119', 'CWE-835', 'CWE-131']
-CWE Description: 

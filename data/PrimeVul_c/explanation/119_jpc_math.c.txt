@@ -1,4 +1,0 @@
-CWE: CWE-617
-CVE: CVE-2018-9055
-
-JasPer 2.0.14 allows denial of service via a reachable assertion in the function jpc_firstone in libjasper/jpc/jpc_math.c.

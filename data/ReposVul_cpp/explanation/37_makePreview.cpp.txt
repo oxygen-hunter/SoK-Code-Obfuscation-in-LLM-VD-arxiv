@@ -1,4 +1,0 @@
-CVE: CVE-2020-16588
-CVE Description: A Null Pointer Deference issue exists in Academy Software Foundation OpenEXR 2.3.0 in generatePreview in makePreview.cpp that can cause a denial of service via a crafted EXR file.
-CWE: ['CWE-476']
-CWE Description: 

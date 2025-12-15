@@ -1,4 +1,0 @@
-CVE: CVE-2021-4162
-CVE Description: archivy is vulnerable to Cross-Site Request Forgery (CSRF)
-CWE: ['CWE-352']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2017-8342
-CVE Description: Radicale before 1.1.2 and 2.x before 2.0.0rc2 is prone to timing oracles and simple brute-force attacks when using the htpasswd authentication method.
-CWE: ['CWE-362']
-CWE Description: 

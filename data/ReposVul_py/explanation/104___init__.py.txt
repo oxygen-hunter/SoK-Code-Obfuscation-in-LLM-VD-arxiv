@@ -1,4 +1,0 @@
-CVE: CVE-2022-23451
-CVE Description: An authorization flaw was found in openstack-barbican. The default policy rules for the secret metadata API allowed any authenticated user to add, modify, or delete metadata from any secret regardless of ownership. This flaw allows an attacker on the network to modify or delete protected data, causing a denial of service by consuming protected resources.
-CWE: ['CWE-863']
-CWE Description: 

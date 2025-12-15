@@ -1,4 +1,0 @@
-CWE: CWE-255
-CVE: CVE-2016-7030
-
-FreeIPA uses a default password policy that locks an account after 5 unsuccessful authentication attempts, which allows remote attackers to cause a denial of service by locking out the account in which system services run on.

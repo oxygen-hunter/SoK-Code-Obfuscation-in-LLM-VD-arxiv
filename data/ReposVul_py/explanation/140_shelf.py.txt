@@ -1,4 +1,0 @@
-CVE: CVE-2022-0273
-CVE Description: Improper Access Control in Pypi calibreweb prior to 0.6.16.
-CWE: ['CWE-284', 'CWE-863']
-CWE Description: 

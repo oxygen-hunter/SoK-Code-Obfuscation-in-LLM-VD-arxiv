@@ -1,4 +1,0 @@
-CWE: CWE-74
-CVE: CVE-2015-2180
-
-The DBMail driver in the Password plugin in Roundcube before 1.1.0 allows remote attackers to execute arbitrary commands via shell metacharacters in the password.

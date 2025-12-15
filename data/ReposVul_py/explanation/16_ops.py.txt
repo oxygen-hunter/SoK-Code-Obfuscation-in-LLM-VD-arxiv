@@ -1,4 +1,0 @@
-CVE: CVE-2023-29380
-CVE Description: Warpinator before 1.6.0 allows remote file deletion via directory traversal in top_dir_basenames.
-CWE: ['CWE-22']
-CWE Description: 

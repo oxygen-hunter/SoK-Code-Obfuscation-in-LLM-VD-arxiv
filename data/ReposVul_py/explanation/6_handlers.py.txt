@@ -1,4 +1,0 @@
-CVE: CVE-2015-7337
-CVE Description: The editor in IPython Notebook before 3.2.2 and Jupyter Notebook 4.0.x before 4.0.5 allows remote attackers to execute arbitrary JavaScript code via a crafted file, which triggers a redirect to files/, related to MIME types.
-CWE: ['CWE-20']
-CWE Description: 

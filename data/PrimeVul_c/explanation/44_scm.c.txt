@@ -1,4 +1,0 @@
-CWE: CWE-264
-CVE: CVE-2013-4300
-
-The scm_check_creds function in net/core/scm.c in the Linux kernel before 3.11 performs a capability check in an incorrect namespace, which allows local users to gain privileges via PID spoofing.

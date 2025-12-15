@@ -1,4 +1,0 @@
-CVE: CVE-2021-20237
-CVE Description: An uncontrolled resource consumption (memory leak) flaw was found in ZeroMQ's src/xpub.cpp in versions before 4.3.3. This flaw allows a remote unauthenticated attacker to send crafted PUB messages that consume excessive memory if the CURVE/ZAP authentication is disabled on the server, causing a denial of service. The highest threat from this vulnerability is to system availability.
-CWE: ['CWE-400', 'CWE-401']
-CWE Description: 

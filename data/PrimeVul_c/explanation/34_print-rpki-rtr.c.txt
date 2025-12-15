@@ -1,4 +1,0 @@
-CWE: CWE-125
-CVE: CVE-2017-13050
-
-The RPKI-Router parser in tcpdump before 4.9.2 has a buffer over-read in print-rpki-rtr.c:rpki_rtr_pdu_print().

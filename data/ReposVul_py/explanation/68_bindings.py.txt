@@ -1,4 +1,0 @@
-CVE: CVE-2015-5263
-CVE Description: pulp-consumer-client 2.4.0 through 2.6.3 does not check the server's TLS certificate signatures when retrieving the server's public key upon registration.
-CWE: ['CWE-295']
-CWE Description: 

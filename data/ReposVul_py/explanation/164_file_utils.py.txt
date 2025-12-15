@@ -1,4 +1,0 @@
-CVE: CVE-2022-0736
-CVE Description: Insecure Temporary File in GitHub repository mlflow/mlflow prior to 1.23.1.
-CWE: ['CWE-668']
-CWE Description: 

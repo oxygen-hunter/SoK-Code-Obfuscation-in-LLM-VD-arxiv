@@ -1,4 +1,0 @@
-CVE: CVE-2018-12615
-CVE Description: An issue was discovered in switchGroup() in agent/ExecHelper/ExecHelperMain.cpp in Phusion Passenger before 5.3.2. The set of groups (gidset) is not set correctly, leaving it up to randomness (i.e., uninitialized memory) which supplementary groups are actually being set while lowering privileges.
-CWE: ['CWE-264', 'CWE-732']
-CWE Description: 

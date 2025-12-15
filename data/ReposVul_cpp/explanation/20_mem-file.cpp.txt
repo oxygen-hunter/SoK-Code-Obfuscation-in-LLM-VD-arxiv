@@ -1,4 +1,0 @@
-CVE: CVE-2020-1918
-CVE Description: In-memory file operations (ie: using fopen on a data URI) did not properly restrict negative seeking, allowing for the reading of memory prior to the in-memory buffer. This issue affects HHVM versions prior to 4.56.3, all versions between 4.57.0 and 4.80.1, all versions between 4.81.0 and 4.93.1, and versions 4.94.0, 4.95.0, 4.96.0, 4.97.0, 4.98.0.
-CWE: ['CWE-125']
-CWE Description: 

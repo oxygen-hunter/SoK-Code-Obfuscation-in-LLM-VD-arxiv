@@ -1,4 +1,0 @@
-CVE: CVE-2014-4678
-CVE Description: The safe_eval function in Ansible before 1.6.4 does not properly restrict the code subset, which allows remote attackers to execute arbitrary code via crafted instructions. NOTE: this vulnerability exists because of an incomplete fix for CVE-2014-4657.
-CWE: ['CWE-74']
-CWE Description: 

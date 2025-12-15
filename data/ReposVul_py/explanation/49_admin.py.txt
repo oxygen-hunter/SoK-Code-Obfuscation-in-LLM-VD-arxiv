@@ -1,4 +1,0 @@
-CVE: CVE-2022-2113
-CVE Description: Cross-site Scripting (XSS) - Stored in GitHub repository inventree/inventree prior to 0.7.2.
-CWE: ['CWE-79']
-CWE Description: 

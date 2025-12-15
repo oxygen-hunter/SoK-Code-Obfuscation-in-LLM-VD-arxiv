@@ -1,4 +1,0 @@
-CVE: CVE-2021-32849
-CVE Description: Gerapy is a distributed crawler management framework. Prior to version 0.9.9, an authenticated user could execute arbitrary commands. This issue is fixed in version 0.9.9. There are no known workarounds.
-CWE: ['CWE-77']
-CWE Description: 

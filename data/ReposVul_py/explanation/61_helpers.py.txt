@@ -1,4 +1,0 @@
-CVE: CVE-2022-0697
-CVE Description: Open Redirect in GitHub repository archivy/archivy prior to 1.7.0.
-CWE: ['CWE-601']
-CWE Description: 

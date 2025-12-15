@@ -1,4 +1,0 @@
-CVE: CVE-2022-2111
-CVE Description: Unrestricted Upload of File with Dangerous Type in GitHub repository inventree/inventree prior to 0.7.2.
-CWE: ['CWE-434']
-CWE Description: 

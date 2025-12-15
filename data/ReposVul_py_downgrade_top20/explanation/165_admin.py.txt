@@ -1,4 +1,0 @@
-CVE: CVE-2022-2112
-CVE Description: Improper Neutralization of Formula Elements in a CSV File in GitHub repository inventree/inventree prior to 0.7.2.
-CWE: ['CWE-1236']
-CWE Description: 

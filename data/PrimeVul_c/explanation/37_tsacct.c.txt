@@ -1,4 +1,0 @@
-CWE: CWE-399
-CVE: CVE-2012-3510
-
-Use-after-free vulnerability in the xacct_add_tsk function in kernel/tsacct.c in the Linux kernel before 2.6.19 allows local users to obtain potentially sensitive information from kernel memory or cause a denial of service (system crash) via a taskstats TASKSTATS_CMD_ATTR_PID command.

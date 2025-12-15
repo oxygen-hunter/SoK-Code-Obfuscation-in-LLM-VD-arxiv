@@ -1,4 +1,0 @@
-CWE: CWE-362
-CVE: CVE-2015-4170
-
-Race condition in the ldsem_cmpxchg function in drivers/tty/tty_ldsem.c in the Linux kernel before 3.13-rc4-next-20131218 allows local users to cause a denial of service (ldsem_down_read and ldsem_down_write deadlock) by establishing a new tty thread during shutdown of a previous tty thread.

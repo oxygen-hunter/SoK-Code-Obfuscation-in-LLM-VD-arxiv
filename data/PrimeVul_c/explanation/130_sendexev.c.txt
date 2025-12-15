@@ -1,4 +1,0 @@
-CWE: CWE-665
-CVE: CVE-2017-10972
-
-Uninitialized data in endianness conversion in the XEvent handling of the X.Org X Server before 2017-06-19 allowed authenticated malicious users to access potentially privileged data from the X server.

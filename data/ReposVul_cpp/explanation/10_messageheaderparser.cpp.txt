@@ -1,4 +1,0 @@
-CVE: CVE-2013-7299
-CVE Description: framework/common/messageheaderparser.cpp in Tntnet before 2.2.1 allows remote attackers to obtain sensitive information via a header that ends in \n instead of \r\n, which prevents a null terminator from being added and causes Tntnet to include headers from other requests.
-CWE: ['CWE-200']
-CWE Description: 

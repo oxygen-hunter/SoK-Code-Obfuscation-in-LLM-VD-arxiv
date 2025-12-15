@@ -1,4 +1,0 @@
-CVE: CVE-2016-6871
-CVE Description: Integer overflow in bcmath in Facebook HHVM before 3.15.0 allows attackers to have unspecified impact via unknown vectors, which triggers a buffer overflow.
-CWE: ['CWE-190']
-CWE Description: 

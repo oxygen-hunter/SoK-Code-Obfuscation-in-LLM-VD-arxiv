@@ -1,4 +1,0 @@
-CWE: CWE-703
-CVE: CVE-2014-9730
-
-The udf_pc_to_char function in fs/udf/symlink.c in the Linux kernel before 3.18.2 relies on component lengths that are unused, which allows local users to cause a denial of service (system crash) via a crafted UDF filesystem image.

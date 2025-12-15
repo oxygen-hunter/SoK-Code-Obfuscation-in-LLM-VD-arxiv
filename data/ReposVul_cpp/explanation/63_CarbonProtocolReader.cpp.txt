@@ -1,4 +1,0 @@
-CVE: CVE-2019-11937
-CVE Description: In Mcrouter prior to v0.41.0, a large struct input provided to the Carbon protocol reader could result in stack exhaustion and denial of service.
-CWE: ['CWE-400', 'CWE-674']
-CWE Description: 

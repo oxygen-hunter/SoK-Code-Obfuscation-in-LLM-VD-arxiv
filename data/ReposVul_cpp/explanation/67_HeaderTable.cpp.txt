@@ -1,4 +1,0 @@
-CVE: CVE-2019-11940
-CVE Description: In the course of decompressing HPACK inside the HTTP2 protocol, an unexpected sequence of header table resize operations can place the header table into a corrupted state, leading to a use-after-free condition and undefined behavior. This issue affects Proxygen from v0.29.0 until v2017.04.03.00.
-CWE: ['CWE-416']
-CWE Description: 

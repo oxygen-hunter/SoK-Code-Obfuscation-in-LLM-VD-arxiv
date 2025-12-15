@@ -1,4 +1,0 @@
-CVE: CVE-2022-2822
-CVE Description: An attacker can freely brute force username and password and can takeover any account. An attacker could easily guess user passwords and gain access to user and administrative accounts.
-CWE: ['CWE-307']
-CWE Description: 

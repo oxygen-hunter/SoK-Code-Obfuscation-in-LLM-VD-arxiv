@@ -1,4 +1,0 @@
-CWE: CWE-476
-CVE: CVE-2017-15116
-
-The rngapi_reset function in crypto/rng.c in the Linux kernel before 4.2 allows attackers to cause a denial of service (NULL pointer dereference).

@@ -1,4 +1,0 @@
-CVE: CVE-2021-46898
-CVE Description: views/switch.py in django-grappelli (aka Django Grappelli) before 2.15.2 attempts to prevent external redirection with startswith("/") but this does not consider a protocol-relative URL (e.g., //example.com) attack.
-CWE: ['CWE-601']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2023-0297
-CVE Description: Code Injection in GitHub repository pyload/pyload prior to 0.5.0b3.dev31.
-CWE: ['CWE-94']
-CWE Description: 

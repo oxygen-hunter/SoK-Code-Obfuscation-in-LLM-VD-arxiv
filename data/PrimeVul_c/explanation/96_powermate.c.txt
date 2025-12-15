@@ -1,4 +1,0 @@
-CWE: CWE-703
-CVE: CVE-2016-2186
-
-The powermate_probe function in drivers/input/misc/powermate.c in the Linux kernel before 4.5.1 allows physically proximate attackers to cause a denial of service (NULL pointer dereference and system crash) via a crafted endpoints value in a USB device descriptor.

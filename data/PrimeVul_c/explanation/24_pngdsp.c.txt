@@ -1,4 +1,0 @@
-CWE: CWE-189
-CVE: CVE-2013-7014
-
-Integer signedness error in the add_bytes_l2_c function in libavcodec/pngdsp.c in FFmpeg before 2.1 allows remote attackers to cause a denial of service (out-of-bounds array access) or possibly have unspecified other impact via crafted PNG data.

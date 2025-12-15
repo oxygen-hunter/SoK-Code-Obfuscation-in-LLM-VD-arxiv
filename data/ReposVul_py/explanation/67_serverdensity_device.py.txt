@@ -1,4 +1,0 @@
-CVE: CVE-2015-1838
-CVE Description: modules/serverdensity_device.py in SaltStack before 2014.7.4 does not properly handle files in /tmp.
-CWE: ['CWE-19']
-CWE Description: 

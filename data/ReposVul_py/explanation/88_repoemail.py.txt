@@ -1,4 +1,0 @@
-CVE: CVE-2020-27831
-CVE Description: A flaw was found in Red Hat Quay, where it does not properly protect the authorization token when authorizing email addresses for repository email notifications. This flaw allows an attacker to add email addresses they do not own to repository notifications.
-CWE: ['CWE-284', 'CWE-522']
-CWE Description: 

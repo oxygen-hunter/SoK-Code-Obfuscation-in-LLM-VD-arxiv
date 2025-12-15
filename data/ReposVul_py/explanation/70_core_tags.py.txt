@@ -1,4 +1,0 @@
-CVE: CVE-2023-5690
-CVE Description: Cross-Site Request Forgery (CSRF) in GitHub repository modoboa/modoboa prior to 2.2.2.
-CWE: ['CWE-352']
-CWE Description: 

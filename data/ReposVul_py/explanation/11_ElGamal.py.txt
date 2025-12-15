@@ -1,4 +1,0 @@
-CVE: CVE-2012-2417
-CVE Description: PyCrypto before 2.6 does not produce appropriate prime numbers when using an ElGamal scheme to generate a key, which reduces the signature space or public key space and makes it easier for attackers to conduct brute force attacks to obtain the private key.
-CWE: ['CWE-310']
-CWE Description: 

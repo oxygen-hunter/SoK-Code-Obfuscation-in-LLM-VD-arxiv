@@ -1,4 +1,0 @@
-CVE: CVE-2016-1505
-CVE Description: The filesystem storage backend in Radicale before 1.1 on Windows allows remote attackers to read or write to arbitrary files via a crafted path, as demonstrated by /c:/file/ignore.
-CWE: ['CWE-21']
-CWE Description: 

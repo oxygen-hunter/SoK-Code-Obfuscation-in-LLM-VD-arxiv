@@ -1,4 +1,0 @@
-CVE: CVE-2023-40171
-CVE Description: Dispatch is an open source security incident management tool. The server response includes the JWT Secret Key used for signing JWT tokens in error message when the `Dispatch Plugin - Basic Authentication Provider` plugin encounters an error when attempting to decode a JWT token. Any Dispatch users who own their instance and rely on the `Dispatch Plugin - Basic Authentication Provider` plugin for authentication may be impacted, allowing for any account to be taken over within their own instance. This could be done by using the secret to sign attacker crafted JWTs. If you think that you may be impacted, we strongly suggest you to rotate the secret stored in the `DISPATCH_JWT_SECRET` envvar in the `.env` file. This issue has been addressed in commit `b1942a4319` which has been included in the `20230817` release. users are advised to upgrade. There are no known workarounds for this vulnerability.
-CWE: ['CWE-209']
-CWE Description: 

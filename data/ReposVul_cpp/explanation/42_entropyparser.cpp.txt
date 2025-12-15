@@ -1,4 +1,0 @@
-CVE: CVE-2022-32201
-CVE Description: In libjpeg 1.63, there is a NULL pointer dereference in Component::SubXOf in component.hpp.
-CWE: ['CWE-476']
-CWE Description: 

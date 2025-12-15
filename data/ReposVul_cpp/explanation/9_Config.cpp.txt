@@ -1,4 +1,0 @@
-CVE: CVE-2018-14055
-CVE Description: ZNC before 1.7.1-rc1 does not properly validate untrusted lines coming from the network, allowing a non-admin user to escalate his privilege and inject rogue values into znc.conf.
-CWE: ['CWE-20', 'CWE-264']
-CWE Description: 

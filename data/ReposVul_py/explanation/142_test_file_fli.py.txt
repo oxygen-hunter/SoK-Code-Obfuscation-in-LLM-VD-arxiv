@@ -1,4 +1,0 @@
-CVE: CVE-2021-28676
-CVE Description: An issue was discovered in Pillow before 8.2.0. For FLI data, FliDecode did not properly check that the block advance was non-zero, potentially leading to an infinite loop on load.
-CWE: ['CWE-835']
-CWE Description: 

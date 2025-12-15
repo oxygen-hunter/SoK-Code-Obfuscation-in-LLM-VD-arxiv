@@ -1,4 +1,0 @@
-CVE: CVE-2019-20918
-CVE Description: An issue was discovered in InspIRCd 3 before 3.1.0. The silence module contains a use after free vulnerability. This vulnerability can be used for remote crashing of an InspIRCd server by any user able to fully connect to a server.
-CWE: ['CWE-416']
-CWE Description: 

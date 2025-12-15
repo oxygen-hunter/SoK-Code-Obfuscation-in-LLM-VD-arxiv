@@ -1,4 +1,0 @@
-CVE: CVE-2017-5537
-CVE Description: The password reset form in Weblate before 2.10.1 provides different error messages depending on whether the email address is associated with an account, which allows remote attackers to enumerate user accounts via a series of requests.
-CWE: ['CWE-200']
-CWE Description: 

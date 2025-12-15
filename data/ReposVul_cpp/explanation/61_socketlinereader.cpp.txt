@@ -1,4 +1,0 @@
-CVE: CVE-2020-26164
-CVE Description: In kdeconnect-kde (aka KDE Connect) before 20.08.2, an attacker on the local network could send crafted packets that trigger use of large amounts of CPU, memory, or network connection slots, aka a Denial of Service attack.
-CWE: ['CWE-400']
-CWE Description: 

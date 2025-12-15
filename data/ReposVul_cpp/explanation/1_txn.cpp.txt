@@ -1,4 +1,0 @@
-CVE: CVE-2022-21164
-CVE Description: The package node-lmdb before 0.9.7 are vulnerable to Denial of Service (DoS) when defining a non-invokable ToString value, which will cause a crash during type check.
-CWE: ['NVD-CWE-noinfo']
-CWE Description: 

@@ -1,4 +1,0 @@
-CWE: CWE-125
-CVE: CVE-2016-7393
-
-Stack-based buffer overflow in the aac_sync function in aac_parser.c in Libav before 11.5 allows remote attackers to cause a denial of service (out-of-bounds read) via a crafted file.

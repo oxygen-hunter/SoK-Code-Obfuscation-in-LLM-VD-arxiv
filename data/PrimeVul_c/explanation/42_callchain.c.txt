@@ -1,4 +1,0 @@
-CWE: CWE-399
-CVE: CVE-2015-6526
-
-The perf_callchain_user_64 function in arch/powerpc/perf/callchain.c in the Linux kernel before 4.0.2 on ppc64 platforms allows local users to cause a denial of service (infinite loop) via a deep 64-bit userspace backtrace.

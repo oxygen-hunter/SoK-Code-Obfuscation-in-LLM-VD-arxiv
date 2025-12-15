@@ -1,4 +1,0 @@
-CWE: CWE-284
-CVE: CVE-2021-30218
-
-samurai 1.2 has a NULL pointer dereference in writefile() in util.c via a crafted build file.

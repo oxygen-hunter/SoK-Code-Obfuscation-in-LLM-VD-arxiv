@@ -1,4 +1,0 @@
-CWE: CWE-120
-CVE: CVE-2020-16294
-
-A buffer overflow vulnerability in epsc_print_page() in devices/gdevepsc.c of Artifex Software GhostScript v9.50 allows a remote attacker to cause a denial of service via a crafted PDF file. This is fixed in v9.51.

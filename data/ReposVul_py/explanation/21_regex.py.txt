@@ -1,4 +1,0 @@
-CVE: CVE-2015-8748
-CVE Description: Radicale before 1.1 allows remote authenticated users to bypass owner_write and owner_only limitations via regex metacharacters in the user name, as demonstrated by ".*".
-CWE: ['CWE-264']
-CWE Description: 

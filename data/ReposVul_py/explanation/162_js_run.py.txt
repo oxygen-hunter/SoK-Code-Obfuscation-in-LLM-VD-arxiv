@@ -1,4 +1,0 @@
-CVE: CVE-2022-0315
-CVE Description: Insecure Temporary File in GitHub repository horovod/horovod prior to 0.24.0.
-CWE: ['CWE-668']
-CWE Description: 

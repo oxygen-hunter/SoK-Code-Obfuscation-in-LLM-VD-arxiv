@@ -1,4 +1,0 @@
-CVE: CVE-2023-45158
-CVE Description: An OS command injection vulnerability exists in web2py 2.24.1 and earlier. When the product is configured to use notifySendHandler for logging (not the default configuration), a crafted web request may execute an arbitrary OS command on the web server using the product.
-CWE: ['CWE-78']
-CWE Description: 

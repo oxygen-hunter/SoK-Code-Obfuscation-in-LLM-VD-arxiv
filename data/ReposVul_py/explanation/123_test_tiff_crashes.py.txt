@@ -1,4 +1,0 @@
-CVE: CVE-2021-25291
-CVE Description: An issue was discovered in Pillow before 8.1.1. In TiffDecode.c, there is an out-of-bounds read in TiffreadRGBATile via invalid tile boundaries.
-CWE: ['CWE-125']
-CWE Description: 

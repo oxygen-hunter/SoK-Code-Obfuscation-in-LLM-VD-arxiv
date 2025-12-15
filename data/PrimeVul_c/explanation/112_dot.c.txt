@@ -1,4 +1,0 @@
-CWE: CWE-401
-CVE: CVE-2019-16710
-
-ImageMagick 7.0.8-35 has a memory leak in coders/dot.c, as demonstrated by AcquireMagickMemory in MagickCore/memory.c.

@@ -1,4 +1,0 @@
-CWE: CWE-284
-CVE: CVE-2016-5104
-
-The socket_create function in common/socket.c in libimobiledevice and libusbmuxd allows remote attackers to bypass intended access restrictions and communicate with services on iOS devices by connecting to an IPv4 TCP socket.

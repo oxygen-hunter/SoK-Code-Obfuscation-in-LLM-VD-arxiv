@@ -1,4 +1,0 @@
-CVE: CVE-2019-17545
-CVE Description: GDAL through 3.0.1 has a poolDestroy double free in OGRExpatRealloc in ogr/ogr_expat.cpp when the 10MB threshold is exceeded.
-CWE: ['CWE-415']
-CWE Description: 

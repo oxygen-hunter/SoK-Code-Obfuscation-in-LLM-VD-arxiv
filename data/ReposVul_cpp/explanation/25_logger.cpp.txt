@@ -1,4 +1,0 @@
-CVE: CVE-2017-6503
-CVE Description: WebUI in qBittorrent before 3.3.11 did not escape many values, which could potentially lead to XSS.
-CWE: ['CWE-79']
-CWE Description: 

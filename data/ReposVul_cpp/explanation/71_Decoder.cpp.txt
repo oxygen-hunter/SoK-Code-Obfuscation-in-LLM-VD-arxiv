@@ -1,4 +1,0 @@
-CVE: CVE-2021-28874
-CVE Description: SerenityOS fixed as of c9f25bca048443e317f1994ba9b106f2386688c3 contains a buffer overflow vulnerability in LibTextCode through opening a crafted file.
-CWE: ['CWE-120']
-CWE Description: 

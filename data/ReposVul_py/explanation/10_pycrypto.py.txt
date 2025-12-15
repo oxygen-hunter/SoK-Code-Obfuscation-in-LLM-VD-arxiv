@@ -1,4 +1,0 @@
-CVE: CVE-2012-3458
-CVE Description: Beaker before 1.6.4, when using PyCrypto to encrypt sessions, uses AES in ECB cipher mode, which might allow remote attackers to obtain portions of sensitive session data via unspecified vectors.
-CWE: ['CWE-310']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2023-2227
-CVE Description: Improper Authorization in GitHub repository modoboa/modoboa prior to 2.1.0.
-CWE: ['CWE-285']
-CWE Description: 

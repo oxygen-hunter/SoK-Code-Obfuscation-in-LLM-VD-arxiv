@@ -1,4 +1,0 @@
-CVE: CVE-2018-7889
-CVE Description: gui2/viewer/bookmarkmanager.py in Calibre 3.18 calls cPickle.load on imported bookmark data, which allows remote attackers to execute arbitrary code via a crafted .pickle file, as demonstrated by Python code that contains an os.system call.
-CWE: ['CWE-502']
-CWE Description: 

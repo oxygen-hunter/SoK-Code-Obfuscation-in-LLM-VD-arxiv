@@ -1,4 +1,0 @@
-CWE: CWE-22
-CVE: CVE-2020-7211
-
-tftp.c in libslirp 4.1.0, as used in QEMU 4.2.0, does not prevent ..\ directory traversal on Windows.

@@ -1,4 +1,0 @@
-CWE: CWE-125
-CVE: CVE-2017-13725
-
-The IPv6 routing header parser in tcpdump before 4.9.2 has a buffer over-read in print-rt6.c:rt6_print().

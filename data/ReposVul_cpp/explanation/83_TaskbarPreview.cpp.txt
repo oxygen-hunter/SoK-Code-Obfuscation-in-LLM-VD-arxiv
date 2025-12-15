@@ -1,4 +1,0 @@
-CVE: CVE-2023-25733
-CVE Description: The return value from `gfx::SourceSurfaceSkia::Map()` wasn't being verified which could have potentially lead to a null pointer dereference. This vulnerability affects Firefox < 110.
-CWE: ['CWE-252']
-CWE Description: 

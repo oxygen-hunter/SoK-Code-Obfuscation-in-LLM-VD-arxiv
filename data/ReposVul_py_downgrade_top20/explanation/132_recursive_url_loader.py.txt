@@ -1,4 +1,0 @@
-CVE: CVE-2023-46229
-CVE Description: LangChain before 0.0.317 allows SSRF via document_loaders/recursive_url_loader.py because crawling can proceed from an external server to an internal server.
-CWE: ['CWE-918']
-CWE Description: 

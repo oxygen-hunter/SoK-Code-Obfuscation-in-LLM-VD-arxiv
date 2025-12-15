@@ -1,4 +1,0 @@
-CWE: CWE-401
-CVE: CVE-2019-6128
-
-The TIFFFdOpen function in tif_unix.c in LibTIFF 4.0.10 has a memory leak, as demonstrated by pal2rgb.

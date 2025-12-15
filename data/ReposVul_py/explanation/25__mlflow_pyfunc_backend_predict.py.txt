@@ -1,4 +1,0 @@
-CVE: CVE-2023-4033
-CVE Description: OS Command Injection in GitHub repository mlflow/mlflow prior to 2.6.0.
-CWE: ['CWE-78']
-CWE Description: 

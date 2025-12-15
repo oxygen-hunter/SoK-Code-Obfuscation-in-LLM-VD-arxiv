@@ -1,4 +1,0 @@
-CVE: CVE-2023-2780
-CVE Description: Path Traversal: '\..\filename' in GitHub repository mlflow/mlflow prior to 2.3.1.
-CWE: ['CWE-29']
-CWE Description: 

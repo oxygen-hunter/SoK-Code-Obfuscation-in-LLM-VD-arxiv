@@ -1,4 +1,0 @@
-CVE: CVE-2022-0497
-CVE Description: A vulnerbiility was found in Openscad, where a .scad file with no trailing newline could cause an out-of-bounds read during parsing of annotations.
-CWE: ['CWE-125']
-CWE Description: 

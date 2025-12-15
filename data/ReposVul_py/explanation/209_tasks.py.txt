@@ -1,4 +1,0 @@
-CVE: CVE-2023-46138
-CVE Description: JumpServer is an open source bastion host and maintenance security audit system that complies with 4A specifications. Prior to version 3.8.0, the default email for initial user admin is `admin[@]mycompany[.]com`, and users reset their passwords by sending an email. Currently, the domain `mycompany.com` has not been registered. However, if it is registered in the future, it may affect the password reset functionality. This issue has been patched in version 3.8.0 by changing the default email domain to `example.com`. Those who cannot upgrade may change the default email domain to `example.com` manually.
-CWE: ['CWE-640']
-CWE Description: 

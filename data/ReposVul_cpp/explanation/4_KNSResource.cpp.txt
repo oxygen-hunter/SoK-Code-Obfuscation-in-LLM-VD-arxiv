@@ -1,4 +1,0 @@
-CVE: CVE-2021-28117
-CVE Description: libdiscover/backends/KNSBackend/KNSResource.cpp in KDE Discover before 5.21.3 automatically creates links to potentially dangerous URLs (that are neither https:// nor http://) based on the content of the store.kde.org web site. (5.18.7 is also a fixed version.)
-CWE: ['NVD-CWE-noinfo']
-CWE Description: 

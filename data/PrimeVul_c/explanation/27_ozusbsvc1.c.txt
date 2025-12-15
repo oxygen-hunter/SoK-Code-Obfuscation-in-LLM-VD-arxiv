@@ -1,4 +1,0 @@
-CWE: CWE-189
-CVE: CVE-2015-4003
-
-The oz_usb_handle_ep_data function in drivers/staging/ozwpan/ozusbsvc1.c in the OZWPAN driver in the Linux kernel through 4.0.5 allows remote attackers to cause a denial of service (divide-by-zero error and system crash) via a crafted packet.

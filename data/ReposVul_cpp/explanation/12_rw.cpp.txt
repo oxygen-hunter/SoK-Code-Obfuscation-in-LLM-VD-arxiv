@@ -1,4 +1,0 @@
-CVE: CVE-2015-2141
-CVE Description: The InvertibleRWFunction::CalculateInverse function in rw.cpp in libcrypt++ 5.6.2 does not properly blind private key operations for the Rabin-Williams digital signature algorithm, which allows remote attackers to obtain private keys via a timing attack.
-CWE: ['CWE-200']
-CWE Description: 

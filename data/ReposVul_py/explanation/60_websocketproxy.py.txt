@@ -1,4 +1,0 @@
-CVE: CVE-2021-3654
-CVE Description: A vulnerability was found in openstack-nova's console proxy, noVNC. By crafting a malicious URL, noVNC could be made to redirect to any desired URL.
-CWE: ['CWE-601']
-CWE Description: 

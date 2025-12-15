@@ -1,4 +1,0 @@
-CWE: CWE-416
-CVE: CVE-2018-12320
-
-There is a use after free in radare2 2.6.0 in r_anal_bb_free() in libr/anal/bb.c via a crafted Java binary file.

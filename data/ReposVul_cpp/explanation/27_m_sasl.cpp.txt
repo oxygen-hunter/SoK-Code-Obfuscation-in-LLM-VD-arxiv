@@ -1,4 +1,0 @@
-CVE: CVE-2016-7142
-CVE Description: The m_sasl module in InspIRCd before 2.0.23, when used with a service that supports SASL_EXTERNAL authentication, allows remote attackers to spoof certificate fingerprints and consequently log in as another user via a crafted SASL message.
-CWE: ['CWE-264']
-CWE Description: 

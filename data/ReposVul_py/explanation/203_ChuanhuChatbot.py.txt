@@ -1,4 +1,0 @@
-CVE: CVE-2023-34094
-CVE Description: ChuanhuChatGPT is a graphical user interface for ChatGPT and many large language models. A vulnerability in versions 20230526 and prior allows unauthorized access to the config.json file of the privately deployed ChuanghuChatGPT project, when authentication is not configured. The attacker can exploit this vulnerability to steal the API keys in the configuration file. The vulnerability has been fixed in commit bfac445. As a workaround, setting up access authentication can help mitigate the vulnerability.
-CWE: ['CWE-306']
-CWE Description: 

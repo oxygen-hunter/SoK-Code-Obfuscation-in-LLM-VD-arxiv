@@ -1,4 +1,0 @@
-CVE: CVE-2016-7838
-CVE Description: Untrusted search path vulnerability in WinSparkle versions prior to 0.5.3 allows remote attackers to execute arbitrary code via a specially crafted executable file in an unspecified directory.
-CWE: ['CWE-426']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2017-6839
-CVE Description: Integer overflow in modules/MSADPCM.cpp in Audio File Library (aka audiofile) 0.3.6 allows remote attackers to cause a denial of service (crash) via a crafted file.
-CWE: ['CWE-190']
-CWE Description: 

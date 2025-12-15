@@ -1,4 +1,0 @@
-CVE: CVE-2023-0055
-CVE Description: Sensitive Cookie in HTTPS Session Without 'Secure' Attribute in GitHub repository pyload/pyload prior to 0.5.0b3.dev32.
-CWE: ['CWE-319', 'CWE-614']
-CWE Description: 

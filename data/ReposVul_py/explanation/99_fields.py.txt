@@ -1,4 +1,0 @@
-CVE: CVE-2022-2134
-CVE Description: Allocation of Resources Without Limits or Throttling in GitHub repository inventree/inventree prior to 0.8.0.
-CWE: ['CWE-400', 'CWE-770']
-CWE Description: 

@@ -1,4 +1,0 @@
-CVE: CVE-2020-10379
-CVE Description: In Pillow before 7.1.0, there are two Buffer Overflows in libImaging/TiffDecode.c.
-CWE: ['CWE-120']
-CWE Description: 

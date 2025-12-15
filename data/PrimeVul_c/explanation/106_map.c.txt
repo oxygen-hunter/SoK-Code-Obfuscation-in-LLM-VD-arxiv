@@ -1,4 +1,0 @@
-CWE: CWE-401
-CVE: CVE-2017-12663
-
-ImageMagick 7.0.6-2 has a memory leak vulnerability in WriteMAPImage in coders/map.c.

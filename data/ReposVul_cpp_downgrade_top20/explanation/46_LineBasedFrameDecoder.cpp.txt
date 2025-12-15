@@ -1,4 +1,0 @@
-CVE: CVE-2019-3563
-CVE Description: Wangle's LineBasedFrameDecoder contains logic for identifying newlines which incorrectly advances a buffer, leading to a potential underflow. This affects versions of Wangle prior to v2019.04.22.00
-CWE: ['CWE-119', 'CWE-787']
-CWE Description: 

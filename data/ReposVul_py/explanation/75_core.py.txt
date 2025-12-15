@@ -1,4 +1,0 @@
-CVE: CVE-2021-29493
-CVE Description: Kennnyshiwa-cogs contains cogs for Red Discordbot. An RCE exploit has been found in the Tickets module of kennnyshiwa-cogs. This exploit allows discord users to craft a message that can reveal sensitive and harmful information. Users can upgrade to version 5a84d60018468e5c0346f7ee74b2b4650a6dade7 to receive a patch or, as a workaround, unload tickets to render the exploit unusable.
-CWE: ['CWE-94', 'NVD-CWE-noinfo']
-CWE Description: 

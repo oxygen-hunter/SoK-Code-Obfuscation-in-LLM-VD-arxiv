@@ -1,4 +1,0 @@
-CWE: CWE-190
-CVE: CVE-2015-5203
-
-Double free vulnerability in the jasper_image_stop_load function in JasPer 1.900.17 allows remote attackers to cause a denial of service (crash) via a crafted JPEG 2000 image file.

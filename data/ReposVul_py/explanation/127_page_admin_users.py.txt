@@ -1,4 +1,0 @@
-CVE: CVE-2022-3364
-CVE Description: Allocation of Resources Without Limits or Throttling in GitHub repository ikus060/rdiffweb prior to 2.5.0a3.
-CWE: ['CWE-770']
-CWE Description: 

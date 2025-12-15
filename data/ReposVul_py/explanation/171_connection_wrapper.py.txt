@@ -1,4 +1,0 @@
-CVE: CVE-2023-25956
-CVE Description: Generation of Error Message Containing Sensitive Information vulnerability in the Apache Airflow AWS Provider. This issue affects Apache Airflow AWS Provider versions before 7.2.1.
-CWE: ['CWE-209']
-CWE Description: 

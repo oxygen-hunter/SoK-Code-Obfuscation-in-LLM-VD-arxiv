@@ -1,4 +1,0 @@
-CVE: CVE-2022-39228
-CVE Description: vantage6 is a privacy preserving federated learning infrastructure for secure insight exchange. vantage6 does not inform the user of wrong username/password combination if the username actually exists. This is an attempt to prevent bots from obtaining usernames. However, if a wrong password is entered a number of times, the user account is blocked temporarily. This issue has been fixed in version 3.8.0.
-CWE: ['CWE-203']
-CWE Description: 

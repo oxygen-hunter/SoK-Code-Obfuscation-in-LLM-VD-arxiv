@@ -1,4 +1,0 @@
-CVE: CVE-2023-39349
-CVE Description: Sentry is an error tracking and performance monitoring platform. Starting in version 22.1.0 and prior to version 23.7.2, an attacker with access to a token with few or no scopes can query `/api/0/api-tokens/` for a list of all tokens created by a user, including tokens with greater scopes, and use those tokens in other requests. There is no evidence that the issue was exploited on `sentry.io`. For self-hosted users, it is advised to rotate user auth tokens. A fix is available in version 23.7.2 of `sentry` and `self-hosted`. There are no known workarounds.
-CWE: ['CWE-287', 'CWE-284']
-CWE Description: 

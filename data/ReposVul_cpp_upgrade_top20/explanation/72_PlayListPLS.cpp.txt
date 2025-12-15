@@ -1,4 +1,0 @@
-CVE: CVE-2021-42917
-CVE Description: Buffer overflow vulnerability in Kodi xbmc up to 19.0, allows attackers to cause a denial of service due to improper length of values passed to istream.
-CWE: ['CWE-120']
-CWE Description: 

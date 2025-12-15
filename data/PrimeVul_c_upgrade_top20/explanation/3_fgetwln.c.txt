@@ -1,4 +1,0 @@
-CWE: CWE-119
-CVE: CVE-2016-2090
-
-Off-by-one vulnerability in the fgetwln function in libbsd before 0.8.2 allows attackers to have unspecified impact via unknown vectors, which trigger a heap-based buffer overflow.

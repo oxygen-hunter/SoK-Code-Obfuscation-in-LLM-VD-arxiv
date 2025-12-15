@@ -1,4 +1,0 @@
-CVE: CVE-2015-6240
-CVE Description: The chroot, jail, and zone connection plugins in ansible before 1.9.2 allow local users to escape a restricted environment via a symlink attack.
-CWE: ['CWE-59']
-CWE Description: 
