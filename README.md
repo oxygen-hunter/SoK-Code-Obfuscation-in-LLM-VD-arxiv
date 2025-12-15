@@ -22,6 +22,8 @@ Main components:
 
 
 
+**!!! Due to their large size, the `data` and `results` are not uploaded here. They are available upon request. Please contact xiao.li@smail.nju.edu.cn**
+
 ## dataset
 
 | Dataset      | Lang     | Vuln Type | Count | Avg LOC | Avg Func |
