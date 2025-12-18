@@ -1,6 +1,6 @@
-# A Systematic Study of Source-Level Transformations Against LLM-based Vulnerability Detection
+# A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection
 
-This is the repo for paper "A Systematic Study of Source-Level Transformations Against LLM-based Vulnerability Detection".
+This is the repo for paper "A Systematic Study of Code Obfuscation Against LLM-based Vulnerability Detection".
 
 ---
 
